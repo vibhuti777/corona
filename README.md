@@ -1,2 +1,1 @@
-# corona
-jkjb
+# coronavirus notificaton update
